@@ -114,3 +114,5 @@ for (let [key, value] of myMap){
    console.log(`Ключ - ${key}, Значение - ${value}`)
 }
 */
+
+////////////////////////
