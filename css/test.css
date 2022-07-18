@@ -1,0 +1,12 @@
+.blue {
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+
+@media screen and (max-width: 600px) {
+  .blue {
+    height: 400px;
+    transition: 2s;
+  }
+}
